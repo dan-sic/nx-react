@@ -1,14 +1,8 @@
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
-import styles from './app.module.css';
-
-import NxWelcome from './nx-welcome';
+import { Shell } from '@nx-react/shell/feature';
 
 export function App() {
-  return (
-    <div>
-      <NxWelcome title="nx-react" />
-    </div>
-  );
+  return <Shell />;
 }
 
 export default App;
