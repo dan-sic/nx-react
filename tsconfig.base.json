@@ -21,6 +21,15 @@
       "@nx-react/home/feature": [
         "libs/home/feature/src/index.ts"
       ],
+      "@nx-react/profile/feature": [
+        "libs/profile/feature/src/index.ts"
+      ],
+      "@nx-react/shared/ui": [
+        "libs/shared/ui/src/index.ts"
+      ],
+      "@nx-react/shell/ui": [
+        "libs/shell/ui/src/index.ts"
+      ],
       "@nx-react/shell/feature": [
         "libs/shell/feature/src/index.ts"
       ]

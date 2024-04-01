@@ -1,0 +1,8 @@
+
+.container {
+    display: flex;
+    height: 50px;
+    margin-bottom: 2rem;
+    background-color: gray;
+}
+
